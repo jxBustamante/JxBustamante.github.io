@@ -1,0 +1,9 @@
+Diseño responsivo Front End en JavaScript
+
+Caroline Sada es una influencer financiera que busca automatizar la recolección de leads para mejorar un curso digital sobre finanzas que ella misma imparte. Para ello, contacta a Samuel, un joven ingeniero en sistemas que lidera su propia empresa llamada Soluciones Creativas. Este proyecto representa el primer contrato importante de Samuel, quien debe asegurarse de cumplir con los requisitos de Caroline mediante un diseño web responsivo y una metodología de trabajo colaborativa.
+
+Samuel, acompañado por sus socios, Tatiana y Ángel, se reúne con Caroline para entender con detalle sus necesidades. Caroline requiere una landing page que funcione bien en distintos dispositivos y que utilice imágenes SVG para mantener la calidad visual. Durante la reunión, Samuel destaca que sus desarrollos se basan en la metodología DevOps, lo que tranquiliza a Caroline, ya que eso le permitirá ver los avances del proyecto en tiempo real y ofrecer retroalimentación continua.
+
+La planificación del proyecto se divide en tres fases. En la primera fase, el equipo se enfoca en crear el maquetado de la landing page con imágenes SVG. En la segunda fase, investigan y aplican Bootstrap 5 para asegurar un diseño responsivo y añaden validaciones de formulario utilizando JavaScript. En la tercera fase, realizan pruebas de diseño responsivo con la herramienta Mobile-friendly Test de Google para asegurarse de que la página funcione correctamente en teléfonos inteligentes, tablets y laptops.
+
+Samuel y su equipo están decididos a demostrar su capacidad y profesionalismo en este primer proyecto significativo para Soluciones Creativas, una firma emergente, pero con futuro. La estructura del proyecto, basada en fases claras y el uso de metodologías ágiles, les permitirá entregar un producto que cumpla con los altos estándares de Caroline y que sirva como una sólida carta de presentación para futuros clientes.
